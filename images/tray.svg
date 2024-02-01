@@ -32,7 +32,6 @@
     console.log('Functional!');
   
 const tray = document.querySelector('#tray');
-   const tray = document.querySelector('#tray');
 
 function logThisId() {
     console.log(this);
@@ -41,6 +40,7 @@ function logThisId() {
 
 tray.addEventListener('click', logThisId);
 </script>
+
   <g id="tray" data-name="tray">
     <rect class="cls-3" x="7.6" y="7.6" width="496.79" height="266.39"/>
     <polygon class="cls-1" points="512 281.6 93.34 281.6 93.34 266.4 496.79 266.4 496.79 15.21 15.21 15.21 15.21 266.4 73.06 266.4 73.06 281.6 0 281.6 0 0 512 0 512 281.6"/>
