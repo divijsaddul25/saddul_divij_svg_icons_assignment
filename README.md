@@ -1,1 +1,3 @@
-# saddul_divij_svg_icons_assignment
+- Added images from adobe illustrator in svg format 💻
+- Added animation (css) on each item 🍉
+- added js! 👍🏻
