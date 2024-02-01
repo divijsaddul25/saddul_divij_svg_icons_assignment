@@ -36,7 +36,10 @@
         </style>
     </defs>
     <script>
- const peach = document.querySelector('#peach');
+    console.log('Functional!');
+  
+const peach = document.querySelector('#peach');
+   const peach = document.querySelector('#peach');
 
 function logThisId() {
     console.log(this);

@@ -28,7 +28,10 @@
     </style>
  
   </defs>
-  <script>
+     <script>
+    console.log('Functional!');
+  
+const tray = document.querySelector('#tray');
    const tray = document.querySelector('#tray');
 
 function logThisId() {
